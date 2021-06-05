@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Abhinav and I'm an incoming student @uwaterloo
+### Hi there 👋 my name is Abhinav and I'm an incoming student @uWaterloo
 ### 🔭 I’m currently working on a pygame project (C-rona Invaders)
 ### 🌱 I’m currently learning data science and deep learning w/ python
 <!--
