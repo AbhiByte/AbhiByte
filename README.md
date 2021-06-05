@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 my name is Abhinav and I'm an incoming student @uwaterloo
+### 🔭 I’m currently working on a pygame project (C-rona Invaders)
+###🌱 I’m currently learning data science and deep learning w/ python
 <!--
 **AbhiByte/AbhiByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
