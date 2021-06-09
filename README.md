@@ -1,7 +1,8 @@
 ### Hey there 👋 my name is Abhinav and I'm an incoming student @uWaterloo
+### 🚀 Interested in all things rocket science and programming!! 
 ### 🔭 I’m currently working on a pygame project (cRona Invaders) and working on LeetCode problems
 ### 🌱 I’m currently learning data science and deep learning w/ python
-### Interested in all things programming!! 
+
 
 <!--
 **AbhiByte/AbhiByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
