@@ -1,5 +1,5 @@
 ### 👋 Hey there my name is Abhinav and I'm an incoming student @uWaterloo
-### 🚀 Interested in all things rocket science and programming!! 
+### 🚀 Interested in all things rocket science and programming! 
 ### 🔭 I’m currently working on... 👀👀👀
 ### 🌱 I’m currently learning data science and deep learning w/ python
 
