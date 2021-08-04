@@ -1,5 +1,5 @@
 ### 👋 Hey there my name is Abhinav and I'm an incoming student @uWaterloo
-### 🚀 Interested in all things space and programming! 
+### 🚀 Interested in all things space, finance, and programming! 
 ### 🔭 Getting into competetive programming :)
 ### 🌱 I’m currently learning web frameworks with Python and JS
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com)
