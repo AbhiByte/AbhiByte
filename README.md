@@ -1,4 +1,4 @@
-### 👋 Hey there my name is Abhinav and I'm an incoming student @uWaterloo
+### 👋 Hey there my name is Abhinav and I'm an engineering student @uWaterloo
 ### 🚀 Interested in all things space, finance, and programming! 
 ### 🌱 I’m currently learning various frameworks with Python
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com)
