@@ -1,6 +1,6 @@
 ### 👋 Hey there my name is Abhinav and I'm an engineering student @uWaterloo
-### 🚀 Interested in all things space, finance, and programming! 
-### 🌱 I’m currently learning DSA , backend JS and tinkering around with ML
+### 🚀 Interested in all things space, physics, mathematics, and programming! 
+### 🌱 I’m currently learning DSA , getting better at HTML, CSS, JS, and tinkering around with ML
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com) or [abhinav.ramesh@uwaterloo.ca](mailto:abhinav.ramesh@uwaterloo.ca)
 
 
