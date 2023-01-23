@@ -1,4 +1,4 @@
-### 👋 Hey there my name is Abhinav and I'm an engineering student @uWaterloo
+### 👋 Hey there my name is Abhinav and I'm a mechatronics engineering student @uWaterloo
 ### 🚀 Interested in all things space, physics, mathematics, and programming! 
 ### 🔭 I’m currently working on a full stack dev course and learning ML on the side!
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com) or [abhinav.ramesh@uwaterloo.ca](mailto:abhinav.ramesh@uwaterloo.ca)
