@@ -2,7 +2,6 @@
 ### 🔭 I’m currently working on a full stack dev course and learning ML on the side!
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com) or [abhinav.ramesh@uwaterloo.ca](mailto:abhinav.ramesh@uwaterloo.ca)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aramesh)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=aramesh&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
