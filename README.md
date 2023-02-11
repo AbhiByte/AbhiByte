@@ -3,7 +3,6 @@
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com) or [abhinav.ramesh@uwaterloo.ca](mailto:abhinav.ramesh@uwaterloo.ca)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aramesh)
 
-
 <!--
 **AbhiByte/AbhiByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
