@@ -1,7 +1,7 @@
 ### 👋 Hey there my name is Abhinav and I'm a mechatronics engineering student @uWaterloo
 ### 🔭 I’m currently building something new [@StealthStartup](https://github.com/StealthStartup)
 ### 📫 Feel free to reach out to me: [abhinavramesh03@gmail.com](mailto:abhinavramesh03@gmail.com) or [abhinav.ramesh@uwaterloo.ca](mailto:abhinav.ramesh@uwaterloo.ca)
-### 📁 Check out my portfolio [here!](https://abhibyte.github.io/) and connect with me on [LinkedIn](https://www.linkedin.com/in/abhinavramesh/)!
+### 📁 Check out my portfolio [here!](https://abhibyte.github.io/) and connect with me on [LinkedIn!](https://www.linkedin.com/in/abhinavramesh/)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/aramesh)
 
 <!--
