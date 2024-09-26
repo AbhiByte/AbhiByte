@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-[wesbsite](https://abhibyte.github.io/)
+[website](https://abhibyte.github.io/)
